@@ -44,7 +44,7 @@ Webhook → Validação → Normalização → Persistência → IA → Resposta
 
 ## 🎥 Demonstração
 
-[link do vídeo]
+<img width="1650" height="680" alt="Workflow_n8n-Whatsapp-chatbot" src="https://github.com/user-attachments/assets/cf3e711f-6bba-45bf-acd8-e2bfd22c2cd3" />
 
 ## 📬 Contato
 
