@@ -2,6 +2,10 @@
 
 Projeto de automação de atendimento utilizando IA, integrando WhatsApp, processamento de linguagem natural e persistência de dados.
 
+## 📸 Demonstração do Workflow
+
+<img width="600" align="center" alt="Workflow_n8n-Whatsapp-chatbot" src="https://github.com/user-attachments/assets/cf3e711f-6bba-45bf-acd8-e2bfd22c2cd3" />
+
 ## 🚀 Funcionalidades
 
 - Recebimento de mensagens via webhook
@@ -42,10 +46,6 @@ Webhook → Validação → Normalização → Persistência → IA → Resposta
 - Integração com CRM
 - RAG (contexto personalizado)
 
-## 🎥 Demonstração
-
-<img width="1650" height="680" alt="Workflow_n8n-Whatsapp-chatbot" src="https://github.com/user-attachments/assets/cf3e711f-6bba-45bf-acd8-e2bfd22c2cd3" />
-
-## 📬 Contato
+## 📬 Contato 
 
 Aberto a oportunidades e colaborações.
