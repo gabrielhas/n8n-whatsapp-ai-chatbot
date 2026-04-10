@@ -95,6 +95,6 @@ Webhook → Validação → Normalização → Persistência → Processamento c
 
 ## 📬 Contato
 
-LinkedIn: https://www.linkedin.com/in/gabriel-henrique-alves-silva-b08628206/
+LinkedIn: https://www.linkedin.com/in/gabrielhalvess/
 
 Aberto a oportunidades como desenvolvedor júnior nas áreas de programação e automação.
